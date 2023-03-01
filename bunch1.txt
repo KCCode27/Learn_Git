@@ -1,0 +1,1 @@
+We commit bunch file at once by git add.
